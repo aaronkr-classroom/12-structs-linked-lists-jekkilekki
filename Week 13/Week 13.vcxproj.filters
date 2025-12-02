@@ -33,5 +33,8 @@
     <ClCompile Include="linked_list.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="linked_list_calc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
